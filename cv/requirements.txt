@@ -1,0 +1,8 @@
+# Computer Vision Service Dependencies
+numpy>=2.0.0
+opencv-python>=4.11.0
+fastapi>=0.115.0
+uvicorn>=0.34.0
+python-multipart>=0.0.20
+pydantic>=2.11.0
+Pillow>=11.0.0

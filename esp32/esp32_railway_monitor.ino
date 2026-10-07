@@ -32,7 +32,7 @@ const char* WIFI_PASSWORD = "YOUR_WIFI_PASSWORD";
 
 // Your PC's Local IPv4 Address running the Node.js backend
 // (Detected on your PC: 10.231.27.103)
-const char* SERVER_IP   = "10.231.27.103";
+const char* SERVER_IP   = "10.231.20.234";
 const int   SERVER_PORT = 5000;
 const char* ENDPOINT    = "/api/sensor-data";
 
